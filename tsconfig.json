@@ -10,7 +10,7 @@
     "module": "esnext",
     "moduleResolution": "node",  
     "baseUrl": "./",
-    "types": ["node","next-auth"],
+    "types": ["jest","node","next-auth"],
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
