@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <!-- Book shape with green outline -->
+  <rect x="20" y="15" width="60" height="70" rx="2" ry="2" fill="white" stroke="#3D8B3D" stroke-width="4"/>
+  <!-- Book spine -->
+  <path d="M50 15 L50 85" stroke="#3D8B3D" stroke-width="4"/>
+  <!-- Book pages (lines) -->
+  <path d="M30 25 L45 25" stroke="#3D8B3D" stroke-width="2"/>
+  <path d="M30 35 L45 35" stroke="#3D8B3D" stroke-width="2"/>
+  <path d="M30 45 L45 45" stroke="#3D8B3D" stroke-width="2"/>
+  <path d="M30 55 L45 55" stroke="#3D8B3D" stroke-width="2"/>
+  <path d="M30 65 L45 65" stroke="#3D8B3D" stroke-width="2"/>
+  <path d="M30 75 L45 75" stroke="#3D8B3D" stroke-width="2"/>
+  
+  <path d="M55 25 L70 25" stroke="#3D8B3D" stroke-width="2"/>
+  <path d="M55 35 L70 35" stroke="#3D8B3D" stroke-width="2"/>
+  <path d="M55 45 L70 45" stroke="#3D8B3D" stroke-width="2"/>
+  <path d="M55 55 L70 55" stroke="#3D8B3D" stroke-width="2"/>
+  <path d="M55 65 L70 65" stroke="#3D8B3D" stroke-width="2"/>
+  <path d="M55 75 L70 75" stroke="#3D8B3D" stroke-width="2"/>
+</svg>
