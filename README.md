@@ -1,7 +1,7 @@
 # SINTAMU – Sistem Terintegrasi Tamu  
 🚀 *PT. Pupuk Kujang Internship Project*
 
-![Logo Pupuk Kujang](https://upload.wikimedia.org/wikipedia/id/6/6a/Logo_Pupuk_Kujang.png)
+![Logo Pupuk Kujang](https://pupuk-kujang.co.id/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.9c96ecf8.png&w=1920&q=75)
 
 **SINTAMU** merupakan sistem web berbasis Next.js yang dirancang untuk mendigitalisasi proses penerimaan tamu di PT. Pupuk Kujang. Proyek ini dikembangkan selama program magang sebagai Frontend Developer, dengan fokus pada performa, kecepatan, dan kemudahan penggunaan.
 
